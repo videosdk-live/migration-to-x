@@ -1,4 +1,4 @@
-# VideoSDK for Javascript
+# VideoSDK for Android
 
 [![Documentation](https://img.shields.io/badge/Read-Documentation-blue)](https://docs.videosdk.live/react/guide/video-and-audio-calling-api-sdk/getting-started)
 [![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20on%20Discord)](https://discord.gg/kgAvyxtTxv)
@@ -25,7 +25,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
    cd Twilio/android-quickstart
    ```
 
-2. Update the `VIDEOSDK_ACCESS_TOKEN` in `VideoActivity.kt` file.Token would be generated from dashboard `https://app.videosdk.live/dashboard`
+2. Update the `VIDEOSDK_ACCESS_TOKEN` in `VideoActivity.kt` file.Token would be generated from [dashboard](https://app.videosdk.live/dashboard)
 
    ```
    VIDEOSDK_ACCESS_TOKEN="Your Token Here"
@@ -33,7 +33,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
 
 3. Run the sample app
 
-Run the android app with **Shift+F10** or the **▶ Run** from toolbar.
+   Run the android app with **Shift+F10** or the **▶ Run** from toolbar.
 
 <br/>
 
